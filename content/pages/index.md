@@ -8,7 +8,7 @@ sections:
       - label: Solicitar Información
         url: /contact
         style: primary
-    image: /images/GIAN JPG.jpg
+    image: /images/240_F_59892801_U9H4waN2ZycIQWKuYAG8Azq2mykT5EwP.jpg
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
