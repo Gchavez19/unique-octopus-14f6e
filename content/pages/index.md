@@ -5,7 +5,7 @@ sections:
     title: 'Hola, soy Andreé y te ayudaré a conseguir tus objetivos digitales.'
     subtitle: "Sitios Web , Landing Page , Plataformas\_ \_ \_E-commerce desarrolladas con pasión ."
     actions:
-      - label: Contact Me
+      - label: Solicitar Información
         url: /contact
         style: primary
     image: images/hero.png
