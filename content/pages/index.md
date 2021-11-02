@@ -8,7 +8,7 @@ sections:
       - label: Solicitar Información
         url: /contact
         style: primary
-    image: /images/240_F_59892801_U9H4waN2ZycIQWKuYAG8Azq2mykT5EwP.jpg
+    image: /images/240_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
