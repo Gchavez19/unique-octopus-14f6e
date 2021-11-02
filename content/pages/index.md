@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Hola, soy Andreé y te ayudaré a conseguir tus objetivos digitales.'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Sitios Web , Landing Page , Plataformas Ecommerce desarrolladas con pasión
+      .
     actions:
       - label: Contact Me
         url: /contact
