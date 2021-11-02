@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Hola, soy Andreé y te ayudaré a conseguir tus objetivos digitales.'
     subtitle: >-
-      Sitios Web , Landing Page , Plataformas Ecommerce desarrolladas con pasión
-      .
+      Sitios Web , Landing Page , Plataformas E-commerce desarrolladas con
+      pasión .
     actions:
       - label: Contact Me
         url: /contact
