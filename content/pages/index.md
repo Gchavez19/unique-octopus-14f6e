@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hola, soy Andreé y te ayudaré a conseguir tus objetivos digitales.'
-    subtitle: >-
-      Sitios Web , Landing Page , Plataformas E-commerce desarrolladas con
-      pasión .
+    subtitle: "Sitios Web , Landing Page , Plataformas\_ \_ \_E-commerce desarrolladas con pasión ."
     actions:
       - label: Contact Me
         url: /contact
