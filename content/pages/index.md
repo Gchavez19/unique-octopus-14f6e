@@ -22,7 +22,7 @@ sections:
     background_image_opacity: 8
   - type: grid_section
     title: Algunas Empresas que confían en nosotros
-    subtitle: Who I work with
+    subtitle: Con quiénes trabajamos¡?
     align: center
     grid_items:
       - image: images/logo-1.svg
