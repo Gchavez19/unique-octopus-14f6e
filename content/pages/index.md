@@ -58,10 +58,12 @@ sections:
     features:
       - title: Creación de Contenidos
         subtitle: 'Sitios Web, Social Media y más.'
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >+
+          Manejaré la redacción de contenido para sus activos digitales, desde
+          boletines y correos electrónicos hasta campañas de Facebook y Google,
+          documentos técnicos, estudios de casos y descripciones de productos.
+          ¡Ningún trabajo es demasiado grande o pequeño!
+
         actions:
           - label: Mira algunos Temas
             url: /faq
