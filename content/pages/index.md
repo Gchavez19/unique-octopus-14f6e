@@ -69,7 +69,7 @@ sections:
             url: '#968106346'
             style: primary
             has_icon: true
-            icon: facebook
+            icon: github
             icon_position: right
         image: images/feature-1.svg
         image_alt: Feature 1 illustration
