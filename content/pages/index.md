@@ -65,7 +65,7 @@ sections:
           ¡Ningún trabajo es demasiado grande o pequeño!
 
         actions:
-          - label: Mira algunos Temas
+          - label: Click Aquí
             url: /faq
             style: primary
             has_icon: true
