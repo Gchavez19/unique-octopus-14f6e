@@ -87,7 +87,7 @@ sections:
             url: /about
             style: primary
             has_icon: true
-            icon: arrow-right
+            icon: github
             icon_position: right
         image: images/feature-2.svg
         image_alt: Feature 2 illustration
