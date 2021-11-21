@@ -94,7 +94,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: SEO Técnico
-        subtitle: 'Sus productos y servicios, a escala.'
+        subtitle: 'Sus productos y servicios, a gran escala.'
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
