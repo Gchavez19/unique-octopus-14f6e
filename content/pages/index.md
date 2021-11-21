@@ -66,7 +66,7 @@ sections:
 
         actions:
           - label: Click Aquí
-            url: '#0051968106346'
+            url: '#00511968106346'
             style: primary
             has_icon: true
             icon: github
