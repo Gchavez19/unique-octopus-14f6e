@@ -67,7 +67,7 @@ sections:
         actions:
           - label: Click Aquí
             url: '#968106346'
-            style: primary
+            style: secondary
             has_icon: true
             icon: github
             icon_position: right
