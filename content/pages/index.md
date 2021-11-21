@@ -75,10 +75,11 @@ sections:
         media_width: sixty
       - title: Gestión de Tiendas Online
         subtitle: 'Actualización de Precios, Inventarios y Precios.'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >+
+          Administrar un negocio en línea es un trabajo de tiempo completo. Me
+          aseguraré de que sus productos se vean bien, suenen bien y se vendan
+          más en la plataforma de comercio electrónico que elija
+
         actions:
           - label: Click Aquí
             url: /about
