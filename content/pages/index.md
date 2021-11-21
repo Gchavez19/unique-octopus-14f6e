@@ -95,10 +95,11 @@ sections:
         media_width: sixty
       - title: SEO Técnico
         subtitle: 'Sus productos y servicios, a gran escala.'
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >+
+          Me comprometeré con sus productos o servicios y me aseguraré de que se
+          comunique la información correcta a lo largo de su documentación,
+          folletos, manuales y documentos técnicos.
+
         actions:
           - label: See Past Work
             url: /faq
