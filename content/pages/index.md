@@ -102,7 +102,7 @@ sections:
 
         actions:
           - label: Click Aquí
-            url: '#'
+            url: '#968'
             style: primary
             has_icon: true
             icon: arrow-right
