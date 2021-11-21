@@ -63,7 +63,7 @@ sections:
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
           case studies and product descriptions. No job is too big or small!
         actions:
-          - label: S
+          - label: Mira algunos Temas
             url: /faq
             style: primary
             has_icon: true
