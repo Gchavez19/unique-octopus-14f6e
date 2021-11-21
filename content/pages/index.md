@@ -84,7 +84,7 @@ sections:
 
         actions:
           - label: Click Aquí
-            url: /about
+            url: '#0'
             style: primary
             has_icon: true
             icon: github
