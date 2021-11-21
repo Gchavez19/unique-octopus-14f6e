@@ -101,7 +101,7 @@ sections:
           folletos, manuales y documentos técnicos.
 
         actions:
-          - label: See Past Work
+          - label: Click Aquí
             url: /faq
             style: primary
             has_icon: true
