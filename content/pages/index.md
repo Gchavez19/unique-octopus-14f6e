@@ -66,7 +66,7 @@ sections:
 
         actions:
           - label: Click Aquí
-            url: /faq
+            url: '#968106'
             style: primary
             has_icon: true
             icon: arrow-right
