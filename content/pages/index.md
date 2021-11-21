@@ -105,7 +105,7 @@ sections:
             url: '#0511968106346'
             style: primary
             has_icon: true
-            icon: arrow-right
+            icon: github
             icon_position: right
         image: images/feature-3.svg
         image_alt: Feature 3 illustration
