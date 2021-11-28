@@ -54,7 +54,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Style Guide",
+                "label": "Guía de Estilos",
                 "url": "/style-guide",
                 "style": "link"
             },
